@@ -1,4 +1,4 @@
-[![Demo](h)]
+[![Demo LinkedIn](https://github.com/Yana-Shrom/REACT_CARD_STYLE_FIFA/tree/main/public/assets/demo.png?raw=true)](https://www.linkedin.com/posts/c%C3%A9dric-lem%C3%A9ne-a47421267_je-d%C3%A9veloppe-une-application-pour-g%C3%A9rer-les-activity-7325851082826391554-0nV7?utm_source=share&utm_medium=member_ios&rcm=ACoAAEFhTpcBG1Ag6S6M5e5ygf5I4M60tZRJxeo)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
